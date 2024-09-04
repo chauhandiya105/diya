@@ -1,3 +1,3 @@
 # diya
-This is my first repo
-author :diya chauhan
+This is my first repo.
+Author: Diya chauhan
